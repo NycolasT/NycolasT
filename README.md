@@ -55,9 +55,7 @@ Um hub de produtividade mobile com estética de terminal, integrando tecnologias
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NycolasT&layout=compact&theme=tokyonight"/> -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NycolasT&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div>
-
----
+![GitHub Streak](https://streak-stats.demolab.com/?user=NycolasT&theme=tokyonight&hide_border=true)---
 
 ### 📫 Vamos nos conectar?
 
