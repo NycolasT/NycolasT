@@ -1,9 +1,10 @@
-# Nycolas T. Santos | Dev & Security Enthusiast 👋
+<div align="center">
+  <h1>Nycolas T. Santos | Dev & Security Enthusiast 👋</h1>
+</div>
 
 <div align="center">
   <a href="URL_DO_SEU_PERFIL_NO_NETLIFY">
-    <img src="<img width="740" height="740" alt="raposa (1)" src="https://github.com/user-attachments/assets/2b57c037-88c0-4d89-947e-bd883b5168f3" />
- " alt="Nycolas Header" />
+    <img width="40%" alt="Nycolas Header" src="https://github.com/user-attachments/assets/da97f82e-2df2-4ab4-aa4c-d86ab3ef5198" />
   </a>
   
   <p><i>"A vida é uma aposta e vale a pena arriscar!"</i> 🦊</p>
