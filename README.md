@@ -51,15 +51,24 @@ Um hub de produtividade mobile com estética de terminal, integrando tecnologias
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NycolasT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NycolasT&layout=compact&theme=tokyonight"/>
-</div>
+<!-- <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NycolasT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NycolasT&layout=compact&theme=tokyonight"/> -->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NycolasT&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div>
 
 ---
 
 ### 📫 Vamos nos conectar?
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nycolast.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5594999999999)
+<div align="left">
+  <a href="https://www.instagram.com/nycolast.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="SEU_LINK_DO_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://nycolast-dev.netlify.app/contato" target="_blank">
+    <img src="https://img.shields.io/badge/Solicitar_Orçamento-00a896?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Contato">
+  </a>
+</div>
